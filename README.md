@@ -1,6 +1,6 @@
 # Ons-Almere-Test
 
- Hi Guys,<br><br>
+ Hi Guys,<br>
 
  I am making a new site for my internship.<br>
 
