@@ -4,8 +4,8 @@
 
  I am making a new site for my internship.<br>
 
- 
- <ul>What are the components for making this website?<br>
+ <strong>What are the components for making this website?</strong><br>
+ <ul>
   <li>Home</li>
   <li>Team</li>
   <li>Portfolio </li>
