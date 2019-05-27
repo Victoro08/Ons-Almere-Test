@@ -5,7 +5,7 @@
 # I am making a new site for my internship.
 
 # What are the components for making this website.
- Home
+ Home<br>
  Team
  Portfolio 
  Blog
