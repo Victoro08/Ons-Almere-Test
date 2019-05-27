@@ -1,10 +1,10 @@
 # Ons-Almere-Test
 
- <h3>Hi Guys,</h3><br>
+ <h3>Hi Guys,</h3>
 
- <p>I am making a new site for my internship.</p><br>
+ <p>I am making a new site for my internship.</p>
 
- <strong>What are the components for making this website?</strong><br>
+ <strong>What are the components for making this website?</strong>
  <ul>
   <li>Home</li>
   <li>Team</li>
@@ -14,7 +14,7 @@
   <li>Chatbot making</li>
 </ul>
 
- <strong>What are the languages, I use for this website?</strong><br>
+ <strong>What are the languages, I use for this website?</strong>
   <ul>
   <li>HTML5</li>
   <li>CSS3</li>
