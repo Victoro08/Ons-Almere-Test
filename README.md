@@ -14,12 +14,15 @@
   <li>Chatbot making</li>
 </ul>
 
- What are the languages, I use for this website?<br>
- HTML5<br>
- CSS3<br>
- Bootstrap<br>
- JS<br>
- Java<br>
- PHP<br>
- Laravel<br>
- SQL<br>
+ <strong>What are the languages, I use for this website?</strong><br>
+  <ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>Bootstrap</li>
+  <li>JS</li>
+  <li>Java</li>
+  <li>PHP</li>
+  <li>Laravel</li>
+  <li>SQL</li>
+</ul>
+
