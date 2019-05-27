@@ -1,8 +1,8 @@
 # Ons-Almere-Test
 
- Hi Guys,<br>
+ <h3>Hi Guys,</h3><br>
 
- I am making a new site for my internship.<br>
+ <p>I am making a new site for my internship.</p><br>
 
  <strong>What are the components for making this website?</strong><br>
  <ul>
